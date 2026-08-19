@@ -45,6 +45,9 @@ const App = (props) => {
           <button className="mt-6 w-full rounded-lg bg-indigo-600 py-3 font-semibold text-white hover:bg-indigo-700">
             View Profile
           </button>
+          {/*<button className="mt-6 w-full rounded-lg bg-indigo-600 py-3 font-semibold text-white hover:bg-indigo-700">
+            View Profile
+          </button>*/}
         </div>
       </div>
     </div>
